@@ -32,10 +32,8 @@ O dataset está disponível em [Kaggle](https://www.kaggle.com/datasets/radheshy
 
 3. **Modelagem**:
    - Seleção de features com Random Forest.
-   - Treinamento de um modelo de Rede Neural (MLPClassifier).
-   - Avaliação do modelo com métricas como Acurácia, Precisão, Recall, F1-Score e AUC-ROC.
+
 
 4. **Resultados**:
-   - O modelo alcançou uma **AUC-ROC de 0.88** no conjunto de teste.
    - As variáveis mais importantes para prever Churn foram `Age`, `Balance`, `NumOfProducts` e `Point Earned`.
   
